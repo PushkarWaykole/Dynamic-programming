@@ -1,0 +1,12 @@
+To identify DP probelm
+-> Count ways or find optimal way to do some thing
+
+Steps to think and solve dp probelms
+
+-- Try to represent the problem in terms of index 
+-- Do all possible stuffs on that and in are to the probelm
+-- If the count is asked then -> sum up all tha stuffs
+-- If max/min is asked then take the max/min in the temp ans
+
+
+Recursive -> Tabulation -> Memoization ->space optimization
